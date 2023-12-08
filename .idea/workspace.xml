@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8e9383ba-0015-41a5-becc-f49b7396e64e" name="Changes" comment="updated timer" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2OPiWvgB8JqW7hoQErmT2rALmpk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="jsx.switch.disabled" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\navi\smile-game-frontend\src\assets\img" />
+      <recent name="D:\navi\smile-game-frontend\src\assets" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e9383ba-0015-41a5-becc-f49b7396e64e" name="Changes" comment="" />
+      <created>1681468654441</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681468654441</updated>
+      <workItem from="1681468660654" duration="270000" />
+      <workItem from="1681468935613" duration="1042000" />
+      <workItem from="1681796758373" duration="4852000" />
+      <workItem from="1681833260910" duration="2778000" />
+      <workItem from="1681877237156" duration="2994000" />
+      <workItem from="1681906235391" duration="1695000" />
+      <workItem from="1681908035705" duration="22000" />
+      <workItem from="1681962345870" duration="1041000" />
+      <workItem from="1699626530568" duration="4448000" />
+      <workItem from="1699764229704" duration="6515000" />
+      <workItem from="1699808558807" duration="716000" />
+      <workItem from="1699847262792" duration="9051000" />
+      <workItem from="1699858292689" duration="615000" />
+      <workItem from="1699878539306" duration="187000" />
+      <workItem from="1699886374771" duration="4284000" />
+      <workItem from="1701849168886" duration="82000" />
+      <workItem from="1701853633095" duration="11000" />
+    </task>
+    <task id="LOCAL-00001" summary="completed get point table">
+      <created>1681880970661</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681880970661</updated>
+    </task>
+    <task id="LOCAL-00002" summary="completed email verification part">
+      <created>1681907956942</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681907956942</updated>
+    </task>
+    <task id="LOCAL-00003" summary="updated timer">
+      <created>1681908049291</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681908049291</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="completed get point table" />
+    <MESSAGE value="completed email verification part" />
+    <MESSAGE value="updated timer" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated timer" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="638" y="323" key="#ESLint" timestamp="1699630381753">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="638" y="323" key="#ESLint/0.0.1536.824@0.0.1536.824" timestamp="1699630381753" />
+    <state x="249" y="0" key="#Project_Structure" timestamp="1699858396822">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1699858396822" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1699888984525">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1699888984525" />
+    <state width="1493" height="431" key="GridCell.Tab.0.bottom" timestamp="1699893566641">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="431" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1699893566641" />
+    <state width="1493" height="431" key="GridCell.Tab.0.center" timestamp="1699893566641">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="431" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1699893566641" />
+    <state width="1493" height="431" key="GridCell.Tab.0.left" timestamp="1699893566640">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="431" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1699893566640" />
+    <state width="1493" height="431" key="GridCell.Tab.0.right" timestamp="1699893566641">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="431" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1699893566641" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1699886590250">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1699886590250" />
+    <state x="478" y="121" width="579" height="582" key="find.popup" timestamp="1699887158227">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="478" y="121" width="579" height="582" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1699887158227" />
+  </component>
+</project>

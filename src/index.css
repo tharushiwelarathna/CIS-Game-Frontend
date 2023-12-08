@@ -1,0 +1,129 @@
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.quiz-cover{
+  background-image: url('./assets/img/wallpaper2.jpg');
+}
+
+.quiz-img{
+  border-radius: 6px;
+}
+
+.quiz-main{
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  background-color: #cc411692;
+  backdrop-filter: blur(20px);
+}
+.points-btn{
+  width: 100px;
+  height: 40px;
+  background-color: #40c507;
+  color: #ffffff;
+  font-size: 18px;
+  font-family: Arial;
+  font-weight: bold;
+  border-radius: 6px;
+}
+
+.timing-text{
+  font-size: 30px;
+  color: #ffff00;
+  font-weight: bold;
+}
+.answer-input{
+  width: 100px;
+  height: 40px;
+  background-color: white;
+  color: #1822a8;
+  font-size: 18px;
+  text-align: center;
+  border-radius: 6px;
+  margin-right: 20px;
+}
+
+.yellow-box{
+  border-radius: 6px;
+  width: 400px;
+  height: 300px;
+  background-color: #03c987d6;
+}
+
+.end-main{
+  display: flex;
+  align-items: center;
+  height: 100vh;
+  background-color: #cc411692;
+  backdrop-filter: blur(20px);
+}
+
+.end-text{
+  color: white;
+}
+
+.end-cover{
+  background-image: url('./assets/img/wallpaper2.jpg');
+  background-position: left;
+}
+
+.disabled-btn{
+  background-color: gray;
+  color: white;
+}
+
+.correctTxt{
+  color: rgb(230, 233, 10);
+}
+.wrongTxt{
+  color: red;
+}
+
+.correctTxt,.wrongTxt{
+  font-family: Arial;
+  font-weight: bold;
+}
+
+.y-box{
+  background-color: yellow;
+
+}
+.verify-box{
+  background-color: #e7c546;
+  border-radius: 12px;
+}
+.main-th{
+  width: 260px;
+  font-family: Arial;
+  font-size: 25px;
+}
+
+.gradient-box{
+  background-image: linear-gradient(to right, rgb(231, 202, 94), rgb(220, 120, 36));
+}
+
+.signin-btn{
+  width: 150px;
+  height: 50px;
+  border-radius: 12px;
+  background-color: #003691;
+  color: white;
+  cursor: pointer;
+  font-family: Arial;
+  font-weight: bold;
+
+}
+
+
